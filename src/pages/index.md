@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Mon Premier Blog Avec Netlify
-image: /img/coding.jpeg
+image: /img/laptop-red.jpeg
 heading: Des articles, et quoi d'autre?
 subheading: Mon apprentissage de la programmation pour Internet
 mainpitch:
