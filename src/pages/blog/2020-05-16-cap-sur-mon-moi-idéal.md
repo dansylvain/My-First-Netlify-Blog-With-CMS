@@ -6,7 +6,8 @@ description: Une nouvelle ligne directrice pour ce blog.
 featuredpost: true
 featuredimage: /img/compass.jpeg
 tags:
-  - blog; organisation
+  - blog
+  - organisation
 ---
 J'ai trouvé la **ligne directrice** pour mon blog ce matin. Cap sur mon moi idéal! Aujourd'hui, je vais devoir définir comment intégrer ce blog dans mon système et définir son rôle au sein de celui-ci. Quelle est la logique derrière cette inclusion? De même, je vais déterminer comment m'y prendre pour le lancement, à savoir comment faire pour commencer à publier dès que possible et quelles seront les étapes pour obtenir une première version de ce blog.
 
