@@ -6,6 +6,7 @@ description: Une nouvelle ligne directrice pour ce blog.
 featuredpost: true
 featuredimage: /img/compass.jpeg
 tags:
+  - article
   - blog
   - organisation
 ---
