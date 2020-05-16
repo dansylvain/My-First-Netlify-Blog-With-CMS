@@ -7,7 +7,8 @@ description: Cet article décrit le pourquoi de ce blog ainsi que des décisions
 featuredpost: true
 featuredimage: /img/planning.jpeg
 tags:
-  - article blog
+  - article
+  - blog
 ---
 Mon objectif pour aujourd'hui est de mettre au point une structure simple dans laquelle pouvoir commencer à publier des articles de manière régulière. Cela fait très longtemps que je souhaite le faire et j'ai un énorme projet personnel et professionnel derrière tout cette entreprise.
 
