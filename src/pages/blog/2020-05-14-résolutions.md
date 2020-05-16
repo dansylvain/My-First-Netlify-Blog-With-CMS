@@ -8,7 +8,8 @@ description: Comme toutes les bonnes résolutions sont faites pour ne pas être
 featuredpost: true
 featuredimage: /img/blogging.jpeg
 tags:
-  - article blog
+  - article
+  - blog
 ---
 Dans le cadre de mon apprentissage, je dois mettre une nouvelle routine en place, et de nouvelles habitudes. Je sais ce qui est bon pour moi, et je sais que je dois lutter contre mes instincts animaux, qui m'entraînent vers la paresse et l'oisiveté.
 
