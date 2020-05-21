@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Une nouvelle idée de projet
-date: 2020-05-21T15:35:36.326Z
+date: 2020-05-21T15:40:12.321Z
 description: Inspiration pour un nouveau projet React dans le cadre de mon
   apprentissage et à inclure à mon portfolio.
 featuredpost: true
