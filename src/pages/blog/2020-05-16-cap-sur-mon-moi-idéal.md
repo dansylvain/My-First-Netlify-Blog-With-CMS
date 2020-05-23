@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Cap sur mon moi idéal!
 date: 2020-05-16T17:24:56.351Z
 description: Une nouvelle ligne directrice pour ce blog.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/compass.jpeg
 tags:
   - article
