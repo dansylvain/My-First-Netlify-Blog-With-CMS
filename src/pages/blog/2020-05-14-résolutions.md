@@ -5,7 +5,7 @@ date: 2020-05-14T16:40:37.483Z
 description: Comme toutes les bonnes résolutions sont faites pour ne pas être
   tenues, voyons s'il est possible de déjouer cette immuable loi grâce à leur
   publication...
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blogging.jpeg
 tags:
   - article
