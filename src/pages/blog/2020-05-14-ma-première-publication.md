@@ -4,7 +4,7 @@ title: Ma Première Publication
 date: 2020-05-14T16:27:01.535Z
 description: D'il y a déjà plusieurs semaines. Je l'ai trouvé en fouillant,
   autant l'inclure...
-featuredpost: true
+featuredpost: false
 featuredimage: /img/hello.jpeg
 tags:
   - article
