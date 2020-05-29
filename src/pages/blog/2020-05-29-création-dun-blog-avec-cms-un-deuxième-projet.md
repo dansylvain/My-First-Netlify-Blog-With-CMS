@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Création d'un Blog avec CMS Un deuxième projet
+title: "Création d'un Blog avec CMS : un Deuxième Projet"
 date: 2020-05-29T09:35:44.280Z
 description: "Ma méthode de création: les étapes"
 featuredpost: true
