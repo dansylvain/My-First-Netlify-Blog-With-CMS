@@ -4,7 +4,7 @@ title: Mise en place de la structure du blog
 date: 2020-05-14T16:35:52.209Z
 description: Cet article décrit le pourquoi de ce blog ainsi que des décisions
   en ce qui concerne la ligne éditoriale et la fréquence de publication.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/planning.jpeg
 tags:
   - article
